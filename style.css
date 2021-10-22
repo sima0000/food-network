@@ -34,12 +34,64 @@ body{
 }
 .food{
     font-size: 25px;
-    color:white;
+    color:#ffffff;
     
 }
 .margin{
     margin-top: 80px;    
 }
-.first-area img{
-    width: 700px;
+.sima{
+    background-image:url(images/female/Frame\ 59.png);
+    background-repeat: no-repeat;
+   background-size:1%;
+    
+    
 }
+.sima h1{
+    width: 700px;
+    height: 300px;
+}
+
+    
+
+}
+#flex-container{
+    display: flex;
+    
+}
+
+.sima{
+    background-image: url(images/female/Frame\ 59.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.sima h2{
+    
+    margin-left: 1000px;
+    padding-top: 200px;
+    font-size: 50px;
+    color:rgb(17, 17, 136)
+}
+.sima p{
+    margin-left: 1000px;
+    word-wrap: 20px;
+
+}
+.link-color{
+    padding:10px 40px;
+    background-image: linear-gradient(orange,red);
+    margin-left: 1000px;
+    font-size: 22px;
+    text-decoration: none;
+    border-radius: 25px;
+    border-top: 100px;
+    color: white;
+    margin-top: 20px;
+    
+
+    
+
+}
+
+
