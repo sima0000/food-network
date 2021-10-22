@@ -95,3 +95,143 @@ body{
 }
 
 
+.first-text{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.para-graph{
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+
+#Tanjina{
+    display: flex;
+    padding: 40px;
+    
+}
+.send{
+    width: 320px;
+    height: 305px;
+    border-radius: 20px;
+}
+.first{
+    box-shadow:10px 10px 10px 10px rgb(226, 222, 222); border-radius: 25px;
+    width: 320px;
+    margin-left: 100px;
+    padding: 15px 
+    
+    
+}
+.first h5{
+    font-size: 30px;
+}
+.first p{
+    font-size: 20px;
+}
+
+
+.send-2{
+      width: 320px;
+      height: 305px;
+      border-radius: 20px;
+}
+
+
+.second{
+    box-shadow:10px 10px 10px 10px rgb(221, 216, 216); border-radius: 15px;
+    width: 320px;
+    margin-left:170px;
+    padding: 15px 
+    
+}
+
+
+.send-3{
+    width: 320px;
+    height: 305px;
+    border-radius: 20px;
+
+}
+
+.Third{
+    box-shadow:10px 10px 10px 10px rgb(226, 221, 221); border-radius: 25px;
+    width: 320px; 
+    margin-left: 150px;
+    margin-right: 120px;
+    padding: 15px
+     
+
+}
+.second h5{
+    font-size: 30px;
+}
+.Third h5{
+    font-size: 30px;
+
+}
+
+
+#Kadir{
+    display: flex;
+    box-shadow:10px 10px 10px 10px rgb(197, 187, 187);border-radius: 15px;
+    width: 1400px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.four{
+    margin-top: 60px;
+    margin-left: 200px;
+    padding: 10px;
+}
+
+.four h7{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-left: 10px;
+    text-align: center;
+    
+    
+
+}
+.four p{
+    margin-left: 10px;
+}
+
+.five{
+    margin-top: 60px;
+    margin-left: 200px;
+    padding: 10px;
+}
+
+.five h7{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-left: 10px;
+    
+}
+
+.five p{
+    margin-left: 10px;
+}
+
+.six{
+    margin-top: 60px;
+    margin-left: 200px;
+    padding: 10px;
+}
+
+.six h7{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.six p{
+    margin-left: 10px;
+}
