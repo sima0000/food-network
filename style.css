@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    width:99%;
+    width:99%
 }
 
 #header{
@@ -66,25 +66,25 @@ body{
     background-image: url(images/female/Frame\ 59.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 800px;
-    width: 2000px;
+    height: 700px;
+    width: 1380px;
 }
 .sima h2{
     
-    margin-left: 1000px;
+    margin-left: 750px;
     padding-top: 200px;
     font-size: 50px;
     color:rgb(17, 17, 136)
 }
 .sima p{
-    margin-left: 1000px;
+    margin-left: 750px;
     word-wrap: 20px;
 
 }
 .link-color{
     padding:10px 40px;
     background-image: linear-gradient(orange,red);
-    margin-left: 1000px;
+    margin-left: 750px;
     font-size: 22px;
     text-decoration: none;
     border-radius: 25px;
@@ -114,7 +114,7 @@ body{
 
 #Tanjina{
     display: flex;
-    padding: 40px;
+    padding: 30px;
     
 }
 .send{
@@ -125,8 +125,8 @@ body{
 .first{
     box-shadow:10px 10px 10px 10px rgb(226, 222, 222); border-radius: 25px;
     width: 320px;
-    margin-left: 100px;
-    padding: 15px 
+    margin-left: 50px;
+    padding: 15px ;
     
     
 }
@@ -148,8 +148,8 @@ body{
 .second{
     box-shadow:10px 10px 10px 10px rgb(221, 216, 216); border-radius: 15px;
     width: 320px;
-    margin-left:170px;
-    padding: 15px 
+    margin-left:70px;
+    padding: 15px ;
     
 }
 
@@ -164,9 +164,9 @@ body{
 .Third{
     box-shadow:10px 10px 10px 10px rgb(226, 221, 221); border-radius: 25px;
     width: 320px; 
-    margin-left: 150px;
+    margin-left: 70px;
     margin-right: 120px;
-    padding: 15px
+    padding: 15px;
 
      
 
@@ -183,14 +183,14 @@ body{
 #Kadir{
     display: flex;
     box-shadow:10px 10px 10px 10px rgb(197, 187, 187);border-radius: 15px;
-    width: 1400px;
+    width: 1200px;
     height: 200px;
     margin-top: 100px;
-    margin-left: 120px;
+    margin-left: 80px;
 }
 .four{
     margin-top: 60px;
-    margin-left: 210px;
+    margin-left: 200px;
     padding: 10px;
 }
 
@@ -251,12 +251,16 @@ body{
 #footer{
     text-align: center;
     background-color: black;
+    
+    
     color: white;
     padding: 15px 25px;
     margin-top: 80px;
     height: 200px;
     font-family:sans-serif;
-    width: 1600;
+
+    
+    
 
 
 }
